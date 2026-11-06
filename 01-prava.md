@@ -1,6 +1,6 @@
 # stat
 ~~~
-[1]
+1*
 gao@fedora:~$ stat -c '%A %a %n' file1
 -rw-r----- 640 file1
 [2]
